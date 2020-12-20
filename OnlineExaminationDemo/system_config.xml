@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<system_config>
+<taskTime>1</taskTime>
+<systemPageSize>10</systemPageSize>
+<examBeginTime>60</examBeginTime>
+<minFileSize>1024</minFileSize>
+<maxFileSize>10485760</maxFileSize>
+<teacherClear>0</teacherClear>
+</system_config>
